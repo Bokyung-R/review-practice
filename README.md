@@ -1,4 +1,4 @@
-# reviewpractice
+# review&practice
 colab으로 코딩연습 \
 배웠던거 복습 \
 github에 올리기
