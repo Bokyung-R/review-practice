@@ -11,3 +11,7 @@ github에 올리기
 ## colab
 colab으로 코딩한거 github에 올리는 법\
 :colab -> github에 사본 저장 -> github 사이트창에서 권한 허용 -> 경로 지정
+
+
+## branch
+branch 에서 변경하면 main에 적용되지않음 -> qull request 를 해야함
