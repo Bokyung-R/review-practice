@@ -14,4 +14,4 @@ colab으로 코딩한거 github에 올리는 법\
 
 
 ## branch
-branch 에서 변경하면 main에 적용되지않음 -> qull request 를 해야함
+branch 에서 변경하면 main에 적용되지않음 -> pull request 를 해야함
