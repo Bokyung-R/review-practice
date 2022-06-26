@@ -6,7 +6,7 @@ github에 올리기
 
 
 ## Markdown
-줄바꿈 할 때에는 뒤에 \\를 붙여야함
+줄바꿈 할 때에는 뒤에 \\를 붙여야함 or 두줄 띄우기
 
 ## colab
 colab으로 코딩한거 github에 올리는 법\
